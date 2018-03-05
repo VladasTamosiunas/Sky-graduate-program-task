@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movieList>
+	<movie>
+		<id>1</id>
+		<name>The Shawshank Redemption</name>
+		<image>/static/shawshenk.jpg</image>
+		<mood>wide awake</mood>
+    <color>#ff9900</color>
+    <link>http://www.imdb.com/title/tt0111161/?ref_=nv_sr_1</link>
+	</movie>
+	<movie>
+		<id>2</id>
+		<name>The Godfather</name>
+		<image>/static/godfather.jpg</image>
+		<mood>happy</mood>
+    <color>pink</color>
+    <link>http://www.imdb.com/title/tt0068646/?ref_=fn_al_tt_1</link>
+	</movie>
+  <movie>
+		<id>3</id>
+		<name>Finding Dory</name>
+		<image>/static/findingdory.jpg</image>
+		<mood>tired</mood>
+    <color>yellow</color>
+    <link>http://www.imdb.com/title/tt2277860/</link>
+	</movie>
+  <movie>
+		<id>4</id>
+		<name>500 Days of Summer</name>
+		<image>/static/500daysofsummer.jpg</image>
+		<mood>yellow</mood>
+    <color>blue</color>
+    <link>http://www.imdb.com/title/tt1022603/</link>
+	</movie>
+  <movie>
+		<id>5</id>
+		<name>Saw</name>
+		<image>/static/saw.jpg</image>
+		<mood>fearless</mood>
+    <color>red</color>
+    <link>http://www.imdb.com/title/tt0387564/?ref_=nv_sr_1</link>
+	</movie>
+  <movie>
+		<id>6</id>
+		<name>The Intouchables</name>
+		<image>/static/intouchables.jpg</image>
+		<mood>sad</mood>
+    <color>blue</color>
+    <link>http://www.imdb.com/title/tt1675434/?ref_=nv_sr_1</link>
+	</movie>
+  	<movie>
+		<id>7</id>
+		<name>The Pursuit of Happyness</name>
+		<image>/static/pursuiting.jpg</image>
+		<mood>sad</mood>
+    <color>blue</color>
+    <link>http://www.imdb.com/title/tt0454921/?ref_=nv_sr_1</link>
+	</movie>
+  	<movie>
+		<id>8</id>
+		<name>Big Hero 6</name>
+		<image>/static/bighero.jpg</image>
+		<mood>sad</mood>
+    <color>blue</color>
+    <link>http://www.imdb.com/title/tt2245084/?ref_=fn_al_tt_1</link>
+	</movie>
+	<movie>
+		<id>9</id>
+		<name>The Notebook</name>
+		<image>/static/thenotebook.jpg</image>
+		<mood>calm</mood>
+    <color>#E9CFEC</color>
+    <link>http://www.imdb.com/title/tt0332280/?ref_=tt_mv_close</link>
+	</movie>
+	<movie>
+		<id>10</id>
+		<name>Friends with Benefits</name>
+		<image>/static/friendswith.jpg</image>
+		<mood>agitated</mood>
+    <color>Green</color>
+    <link>http://www.imdb.com/title/tt1632708/?ref_=nv_sr_1</link>
+	</movie>
+	<movie>
+		<id>11</id>
+		<name>Planet Earth II</name>
+		<image>/static/planet.jpg</image>
+		<mood>wide awake</mood>
+    <color>#ff9900</color>
+    <link>http://www.imdb.com/title/tt5491994/?ref_=nv_sr_1</link>
+	</movie>
+	<movie>
+		<id>12</id>
+		<name>Deadpool</name>
+		<image>/static/deadpool.jpg</image>
+		<mood>scared</mood>
+    <color>violet</color>
+    <link>http://www.imdb.com/title/tt1431045/?ref_=fn_al_tt_1</link>
+	</movie>
+	<movie>
+		<id>13</id>
+		<name>The Lord of the Rings</name>
+		<image>/static/lord.jpg</image>
+		<mood>agitated</mood>
+    <color>#ff9900</color>
+    <link>http://www.imdb.com/title/tt0120737/?ref_=nv_sr_1</link>
+	</movie>
+	<movie>
+		<id>14</id>
+		<name>WALL·E</name>
+		<image>/static/walle.jpg</image>
+		<mood>sad</mood>
+    <color>blue</color>
+    <link>http://www.imdb.com/title/tt0910970/?ref_=fn_al_tt_1</link>
+	</movie>
+	<movie>
+		<id>15</id>
+		<name>Toy Story </name>
+		<image>/static/toy.jpg</image>
+		<mood>tired</mood>
+    <color>yellow</color>
+    <link>http://www.imdb.com/title/tt0114709/?ref_=tt_rec_tti</link>
+	</movie>
+</movieList>
